@@ -104,7 +104,7 @@ cv2.destoryAllWindows()
 
 ```
 ## Output:
-![1](https://user-images.githubusercontent.com/94980741/164015571-985fb8b4-08e1-4138-adb8-98781753c56c.png)
+
 
 ### i) BGR and RGB to HSV and GRAY
 ![2](https://user-images.githubusercontent.com/94980741/164015378-7ff04fed-b75b-47fd-b87f-22d897fdf1ce.png),![3](https://user-images.githubusercontent.com/94980741/164015415-61f77d7e-19ae-4462-ad64-0080e7eaac5b.png)
