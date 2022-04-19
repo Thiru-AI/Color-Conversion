@@ -108,13 +108,13 @@ cv2.destoryAllWindows()
 
 ### i) BGR and RGB to HSV and GRAY
 ![2](https://user-images.githubusercontent.com/94980741/164015378-7ff04fed-b75b-47fd-b87f-22d897fdf1ce.png)
-<br>
+
 ![3](https://user-images.githubusercontent.com/94980741/164015415-61f77d7e-19ae-4462-ad64-0080e7eaac5b.png)
 
 
 ### ii) HSV to RGB and BGR
 ![4](https://user-images.githubusercontent.com/94980741/164015623-3878763f-686a-4622-a37c-de695f5c96e0.png)
-<br>
+
 ![5](https://user-images.githubusercontent.com/94980741/164015687-64a95dc9-09e1-4b37-94a8-87f24836c541.png)
 
 
@@ -128,18 +128,18 @@ cv2.destoryAllWindows()
 
 ### iv) Split and merge RGB Image
 ![B-Channel](https://user-images.githubusercontent.com/94980741/164015964-645dfa49-f41d-4fe2-9f9c-031a31efeda8.png)
-<br>
+
 ![G-Channel](https://user-images.githubusercontent.com/94980741/164016006-a15e3564-e92b-4eaa-95a8-a5e35988c493.png)
-<br>
+
 ![R-Channel](https://user-images.githubusercontent.com/94980741/164016052-dd1c92fe-cae7-4571-995f-fddcab3b7c88.png)
 
 
 
 ### v) Split and merge HSV Image
 ![Merged HSV Image](https://user-images.githubusercontent.com/94980741/164016111-b09f8cc5-219e-4cc3-aa6c-3500ca0b377b.png)
-<br>
+
 ![Saturation-Image](https://user-images.githubusercontent.com/94980741/164016848-14388a82-a3f9-4996-af12-9f6ea0a414d3.png)
-<br>
+
 ![Hue-Image](https://user-images.githubusercontent.com/94980741/164016909-a8048d28-8619-4d25-ba00-8174732ab5a9.png)
 
 
