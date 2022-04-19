@@ -120,7 +120,8 @@ cv2.destoryAllWindows()
 
 
 ### iii) RGB and BGR to YCrCb
-![5](https://user-images.githubusercontent.com/94980741/164015828-dc070641-acb0-4833-b349-c6e16736b13e.png)
+![6](https://user-images.githubusercontent.com/94980741/164017664-633b7b54-30bb-44b2-b846-e5da6a3da547.png)
+
 <br>
 ![7](https://user-images.githubusercontent.com/94980741/164015871-10e9d5ba-43fc-439f-8ed2-a3d6481d48c2.png)
 
