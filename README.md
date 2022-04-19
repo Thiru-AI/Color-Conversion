@@ -107,14 +107,12 @@ cv2.destoryAllWindows()
 ![1](https://user-images.githubusercontent.com/94980741/164015571-985fb8b4-08e1-4138-adb8-98781753c56c.png)
 
 ### i) BGR and RGB to HSV and GRAY
-<br>
 ![2](https://user-images.githubusercontent.com/94980741/164015378-7ff04fed-b75b-47fd-b87f-22d897fdf1ce.png)
 <br>
 ![3](https://user-images.githubusercontent.com/94980741/164015415-61f77d7e-19ae-4462-ad64-0080e7eaac5b.png)
 
 
 ### ii) HSV to RGB and BGR
-<br>
 ![4](https://user-images.githubusercontent.com/94980741/164015623-3878763f-686a-4622-a37c-de695f5c96e0.png)
 <br>
 ![5](https://user-images.githubusercontent.com/94980741/164015687-64a95dc9-09e1-4b37-94a8-87f24836c541.png)
@@ -122,7 +120,6 @@ cv2.destoryAllWindows()
 
 
 ### iii) RGB and BGR to YCrCb
-<br>
 ![5](https://user-images.githubusercontent.com/94980741/164015828-dc070641-acb0-4833-b349-c6e16736b13e.png)
 <br>
 ![7](https://user-images.githubusercontent.com/94980741/164015871-10e9d5ba-43fc-439f-8ed2-a3d6481d48c2.png)
